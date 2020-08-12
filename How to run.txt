@@ -1,0 +1,7 @@
+To run:
+1) 'pip install' all packages in requirments.txt (in Project folder)
+2) run program using python3 gui.py
+
+There is already configured virutal envireoment on the university computers at:
+'/cs/usr/amit.david/PycharmProjects/Link-A-Pix/env' (all the files in there are public)
+if for some reason the program fails to run.
