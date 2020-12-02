@@ -2,7 +2,7 @@
 ![](cover_image.jpg)
 
 This is an AI based solver for the Link-a-Pix game!  
-To enjoy the game click [here](https://www.conceptispuzzles.com/index.aspx?uri=puzzle/link-a-pix).
+To enjoy the real game click [here](https://www.conceptispuzzles.com/index.aspx?uri=puzzle/link-a-pix).
 
 
 ## The game
