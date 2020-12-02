@@ -17,9 +17,9 @@ To enjoy the game click [here](https://www.conceptispuzzles.com/index.aspx?uri=p
 
 
 ## Solutions
-The solution of the game is finding a series of legal paths under the constraints
-in order to get the final picture (each board has a unique solution).
-In order to solve our problem we used multiple solutions: 
+The solution of the game is finding a series of legal paths under the constraints   
+in order to get the final picture (each board has a unique solution).     
+In order to solve our problem we used multiple solutions:   
 
 * CSP: Backtracking algorithm
 
