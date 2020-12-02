@@ -5,8 +5,8 @@ This is an AI based solver for the Link-a-Pix game!
 To enjoy the game click [here](https://www.conceptispuzzles.com/index.aspx?uri=puzzle/link-a-pix).
 
 
-## The Game
-* A board game puzzle that form whimsical pixel-art pictures when solved. 
+## The game
+* Link-a-Pix is a board game puzzle that form whimsical pixel-art pictures when solved. 
 
 * Each puzzle consists of a grid containing numbers in various places. 
   Every number, except for the 1’s, is half of a pair.
@@ -34,6 +34,6 @@ In order to solve our problem we used multiple solutions:
 download runner.zip
 open Link-A-Pix.exe
 choose a board and your desired tactic
-click Run! :)
+click Run!
 ```
 
