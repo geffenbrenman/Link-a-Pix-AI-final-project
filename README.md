@@ -6,14 +6,14 @@ To enjoy the game click [here](https://www.conceptispuzzles.com/index.aspx?uri=p
 
 
 ## The game
-* Link-a-Pix is a board game puzzle that form whimsical pixel-art pictures when solved. 
+* Link-a-Pix is a board game puzzle that form whimsical pixel-art pictures when solved.     
 
-* Each puzzle consists of a grid containing numbers in various places. 
-  Every number, except for the 1’s, is half of a pair.
+* Each puzzle consists of a grid containing numbers in various places.    
+  Every number, except for the 1’s, is half of a pair.    
   
-* The purpose is to reveal a hidden picture by linking the pairs and painting the paths so that
-  the number of squares in the path, including the squares at the ends,
-  equals the value of the numbers being linked together. 
+* The purpose is to reveal a hidden picture by linking the pairs and painting the paths so that    
+  the number of squares in the path, including the squares at the ends,     
+  equals the value of the numbers being linked together.    
 
 
 ## Solutions
