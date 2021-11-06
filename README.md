@@ -25,7 +25,6 @@ In order to solve our problem we used multiple solutions:
 
 * Search algorithms: DFS, BFS, UCS and A*
 
-* Machine learning algorithm 
 
 
 ## Usage
